@@ -1,16 +1,13 @@
 ValuationType,ValuationMethod,Valuation,ValuationDate
-MV estimate (AVM),AVM,03 Sep 2020
-avmValuationRangeLow,,,
-avmValuationRangeHigh,,,
-Most recent bank valuation,Index,31 Dec 2019
-Last physical or desktop valuation,Desktop,16 Dec 2014
-Initial valuation,Physical,18 Dec 2007
-Listings comparable average,,03 Sep 2020
-Listings municipal average,,03 Sep 2020
-Listings regional average,,03 Sep 2020
-Sales comparable average,,03 Aug 2020
-Sales municipal average,,03 Aug 2020
-Sales regional average,,03 Aug 2020
-Professional postcode average,,03 Sep 2020
-Municipal average,,03 Sep 2020
-Regional average,,03 Sep 2020
+Most recent bank valuation,Index,1786,31 Dec 2019
+Last physical or desktop valuation,Desktop,2076,16 Dec 2014
+Initial valuation,Physical,4831,18 Dec 2007
+Listings comparable average,,2550,03 Sep 2020
+Listings municipal average,,2870,03 Sep 2020
+Listings regional average,,2190,03 Sep 2020
+Sales comparable average,,2107,03 Aug 2020
+Sales municipal average,,2089,03 Aug 2020
+Sales regional average,,2070,03 Aug 2020
+Professional postcode average,,2116,03 Sep 2020
+Municipal average,,1897,03 Sep 2020
+Regional average,,1250,03 Sep 2020
