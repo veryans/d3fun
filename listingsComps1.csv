@@ -1,9 +1,9 @@
-DATE,TYPE,LOCATION,BUILT,FLOOR,MAIN FLOOR m2,PRICE,PRICE per m2
-Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1973,1,120,"330,000","2,750"
-Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1978,4,124,"260,000","2,097"
-Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1972,3,125,"380,000","3,040"
-Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1972,3,125,"380,000","3,040"
-Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1977,2,130,"320,000","2,462"
-Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1974,2,131,"400,000","3,053"
-Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1973,3,134,"260,000","1,940"
-Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1974,3,134,"270,000","2,015"
+﻿DATE,TYPE,LOCATION,BUILT,FLOOR,MAIN FLOOR m2,PRICE ,PRICE per m2
+Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1973,1,120,330000,2750
+Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1978,4,124,260000,2097
+Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1972,3,125,380000,3040
+Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1972,3,125,380000,3040
+Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1977,2,130,320000,2462
+Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1974,2,131,400000,3053
+Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1973,3,134,260000,1940
+Sep-20,Apartment,ΚΗΦΙΣΙΑ ,1974,3,134,270000,2015
