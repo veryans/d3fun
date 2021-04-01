@@ -1,5 +1,5 @@
 price,professional,listings
-≤25k,1,0
+<25k,1,0
 25k-50k,3,0
 50k-75k,6,0
 75k-100k,9,2
@@ -9,4 +9,4 @@ price,professional,listings
 500k-750k,2,14
 750k-1m,0,6
 1m-1.5m,1,2
-1.5m-2m,1,2
+>1.5m,1,2
