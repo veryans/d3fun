@@ -1,5 +1,5 @@
-dataSource,25percent,mean,75percent
-resimetrics_AVM,2134,2132,2336
-professional_Valuations,2005,2238,2344
-sales_Records,1861,2089,2332
-listings,2153,2870,3293
+dataSource,quPercent,mean,threeQuPercent
+Resimetrics AVM,2134,2132,2336
+Professional Valuations,2005,2238,2344
+Listings,2153,2870,3293
+Sales Records,1861,2089,2332
