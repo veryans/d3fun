@@ -1,0 +1,6 @@
+key,value
+distanceToMassTransport,0.2
+distanceToHospital,0.5
+distanceToShops,0.2
+distanceToBeach,12
+distanceToPark,1.2
