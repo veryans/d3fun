@@ -1,5 +1,6 @@
 key,value
 distanceToMassTransport,0.2
+massTransportName, the Metro
 distanceToHospital,0.5
 distanceToShops,0.2
 distanceToBeach,12
